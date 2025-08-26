@@ -180,14 +180,14 @@ export const certificates = [
   //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YmhDdn1HLzatPyuWRTg-YlitbQJtwdb_VQ&s",
   //   url: './MongoDB.pdf'
   // },
-  {
-    id: 5 ,
-    name: "Python",
-    issuer: "HackerRank",
-    date: "2025",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65CTTHb2m6CvvK31nYqH3bJbjrTvZ6e7rjw&s",
-    url: './python.pdf'
-  },
+  // {
+  //   id: 5 ,
+  //   name: "Python",
+  //   issuer: "HackerRank",
+  //   date: "2025",
+  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65CTTHb2m6CvvK31nYqH3bJbjrTvZ6e7rjw&s",
+  //   url: './python.pdf'
+  // },
    {
     id: 56,
     name: "SQL",

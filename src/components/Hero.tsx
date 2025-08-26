@@ -130,8 +130,8 @@ const Hero: React.FC = () => {
               {/*  */}
 
               <a
-                href="/durgaresumef.pdf"
-                download="durgaresumef.pdf"
+                href="/TangilaDurgaRao-Resume.pdf"
+                download="TangilaDurgaRao-Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
