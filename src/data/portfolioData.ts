@@ -44,110 +44,110 @@ export const skills = {
 export const projects = [
   {
     id: 1,
-    title: "Zewixa",
+    title: "Ipl Score Prediction",
     description: "Modern business platform with real-time features, user authentication, and comprehensive dashboard for business management.",
-    tech: ["React", "Node.js", "MongoDB", "Express"],
-    github: "https://github.com/Vinay975/zewixa",
-    live: "https://zewixa.vercel.app",
-    image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800",
+    tech: ["DeepLearning", "Python", "Pandas", "TensorFlow"],
+    github: "https://github.com/lucky143214/Ipl-score-prediction-using-deeplearning",
+    live: "https://Ipl-score-prediction.vercel.app",
+    image: "https://camo.githubusercontent.com/51be30d2760bf32fb487c2bd11c7b1fb46ed32c5ce75e43ba2e0ddca4bff3865/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646777757777716f6d2f696d6167652f75706c6f61642f76313733303732343134312f4769746875622f49504c5f53636f72655f707265646963745f7573696e675f646565706c6561726e696e672e77656270",
     featured: true
   },
   {
     id: 2,
-    title: "FitClub",
-    description: "Comprehensive fitness web application with workout tracking, nutrition planning, and progress monitoring.",
-    tech: ["React", "Firebase", "CSS3", "JavaScript"],
-    github: "https://github.com/Vinay975/fitclub",
-    live: "https://fitclub-app.vercel.app",
-    image: "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=800",
+    title: "Task Management System",
+    description: "A web application to efficiently manage and track tasks with user authentication, task creation, assignment, and status tracking.",
+    tech: ["Node.js", "React", "MySQL", "JavaScript"],
+    github: "https://github.com/lucky143214/Task-Management-System",
+    live: "https://task-management-system-beta-orpin.vercel.app/",
+    image: "https://miro.medium.com/v2/resize:fit:1024/0*YPyCDbKGTzcLY_lK.png",
     featured: true
   },
-  {
-    id: 3,
-    title: "OpenTab",
-    description: "Developed a platform for users to team up, share concepts, and collaborate in virtual spaces.",
-    tech: ["React", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/venugopal8005/opentable",
-    live: "https://opentable-clone.vercel.app",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ419B6BAh2jFJtfkodnYEGnzEOmS6khwzThQ&s",
-    featured: true
-  },
-  {
-    id: 4,
-    title: "Resume Builder",
-    description: "Dynamic resume generator with multiple templates, real-time preview, and PDF export functionality.",
-    tech: ["React", "CSS3", "JavaScript", "HTML5"],
-    github: "https://github.com/Vinay975/Resume",
-    live: "https://resume-builder-app.vercel.app",
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34SBJO8TXo4bYzP6qfzuy8ttweKBOWHhzVA&s",
-    featured: true
-  },
-  {
-    id: 5,
-    title: "Typing Speed Game",
-    description: "Interactive typing speed test with multiple difficulty levels, real-time WPM calculation, and leaderboard.",
-    tech: ["JavaScript", "CSS3", "HTML5"],
-    github: "https://github.com/Vinay975/typing-game",
-    live: "https://typing-speed-game.vercel.app",
-    image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800",
-    featured: true
-  },
-  {
-    id: 6,
-    title: "Event Planner",
-    description: "Comprehensive event management system with RSVP functionality, guest management, and real-time updates.",
-    tech: ["React", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/Vinay975/event-planner",
-    live: "https://event-planner-app.vercel.app",
-    image: "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800",
-    featured: true
-  }
+  // {
+  //   id: 3,
+  //   title: "OpenTab",
+  //   description: "Developed a platform for users to team up, share concepts, and collaborate in virtual spaces.",
+  //   tech: ["React", "Node.js", "Express", "MongoDB"],
+  //   github: "https://github.com/venugopal8005/opentable",
+  //   live: "https://opentable-clone.vercel.app",
+  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ419B6BAh2jFJtfkodnYEGnzEOmS6khwzThQ&s",
+  //   featured: true
+  // },
+  // {
+  //   id: 4,
+  //   title: "Resume Builder",
+  //   description: "Dynamic resume generator with multiple templates, real-time preview, and PDF export functionality.",
+  //   tech: ["React", "CSS3", "JavaScript", "HTML5"],
+  //   github: "https://github.com/Vinay975/Resume",
+  //   live: "https://resume-builder-app.vercel.app",
+  //   image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34SBJO8TXo4bYzP6qfzuy8ttweKBOWHhzVA&s",
+  //   featured: true
+  // },
+  // {
+  //   id: 5,
+  //   title: "Typing Speed Game",
+  //   description: "Interactive typing speed test with multiple difficulty levels, real-time WPM calculation, and leaderboard.",
+  //   tech: ["JavaScript", "CSS3", "HTML5"],
+  //   github: "https://github.com/Vinay975/typing-game",
+  //   live: "https://typing-speed-game.vercel.app",
+  //   image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800",
+  //   featured: true
+  // },
+  // {
+  //   id: 6,
+  //   title: "Event Planner",
+  //   description: "Comprehensive event management system with RSVP functionality, guest management, and real-time updates.",
+  //   tech: ["React", "Node.js", "Express", "MongoDB"],
+  //   github: "https://github.com/Vinay975/event-planner",
+  //   live: "https://event-planner-app.vercel.app",
+  //   image: "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800",
+  //   featured: true
+  // }
 ];
 
 export const miniProjects = [
-  { name: "Calculator", tech: "JavaScript", github: "https://dashing-sprinkles-a79678.netlify.app/" },
-  { name: "Weather App", tech: "React", github: "https://github.com/Vinay975/weather-app" },
-  { name: "Chatbot", tech: "Node.js", github: "https://github.com/Vinay975/chatbot" },
-  { name: "Notes App", tech: "MERN", github: "https://github.com/Vinay975/notes-app" },
-  { name: "Currency Converter", tech: "React", github: "https://github.com/Vinay975/currency-converter" },
-  { name: "QR Code Generator", tech: "JavaScript", github: "https://github.com/Vinay975/qr-generator" },
-  { name: "Password Generator", tech: "JavaScript", github: "https://github.com/Vinay975/password-generator" },
-  { name: "Rock Paper Scissors", tech: "JavaScript", github: "https://vermillion-gnome-8ff4a2.netlify.app/" },
-  { name: "Expense Splitter", tech: "React", github: "https://github.com/Vinay975/expense-splitter" },
-  { name: "Timer App", tech: "React", github: "https://vermillion-gnome-8ff4a2.netlify.app/" }
+  { name: "Calculator", tech: "JavaScript", github: "https://durgacalculator.vercel.app/" },
+  { name: "Weather App", tech: "React", github: "https://durga-weather.vercel.app/" },
+  // { name: "Chatbot", tech: "Node.js", github: "https://github.com/Vinay975/chatbot" },
+  // { name: "Notes App", tech: "MERN", github: "https://github.com/Vinay975/notes-app" },
+  // { name: "Currency Converter", tech: "React", github: "https://github.com/Vinay975/currency-converter" },
+  // { name: "QR Code Generator", tech: "JavaScript", github: "https://github.com/Vinay975/qr-generator" },
+  { name: "Tic-Tac-Toe", tech: "JavaScript", github: "https://durga-tic-tac-toe.vercel.app/" },
+  // { name: "Rock Paper Scissors", tech: "JavaScript", github: "https://vermillion-gnome-8ff4a2.netlify.app/" },
+  // { name: "Expense Splitter", tech: "React", github: "https://github.com/Vinay975/expense-splitter" },
+  // { name: "Timer App", tech: "React", github: "https://vermillion-gnome-8ff4a2.netlify.app/" }
 ];
 
 export const internships = [
   {
     id: 1,
-    role: "Full Stack with React Native",
-    company: "Technical Hub",
-    duration: "June 10, 2024 – July 27, 2024",
-    description: "Real-time full stack training with React Native, focusing on mobile app development and backend integration.",
+    role: "AIML Intern",
+    company: "APSSDC",
+    duration: "May 15, 2024 – June 25, 2024",
+    description: "Learn AI, Machine Learning, and Deep Learning concepts, and integrate them with backend development to build intelligent, data-driven applications.",
     type: "Training",
     certificate: '/intership1.pdf',
   },
-  {
-    id: 2,
-    role: "Full Stack with React Native",
-    company: "Technical Hub Pvt. Ltd.",
-    employeeId: "22A91A61C0",
-    duration: "May 01, 2025 – June 30, 2025",
-    description: "Selected through rigorous process. Hands-on experience with React Native, full stack development, and modern development practices.",
-    type: "Internship",
-    certificate: '/intership2.pdf',
-  }
+  // {
+  //   id: 2,
+  //   role: "Full Stack with React Native",
+  //   company: "Technical Hub Pvt. Ltd.",
+  //   employeeId: "22A91A61C0",
+  //   duration: "May 01, 2025 – June 30, 2025",
+  //   description: "Selected through rigorous process. Hands-on experience with React Native, full stack development, and modern development practices.",
+  //   type: "Internship",
+  //   certificate: '/intership2.pdf',
+  // }
 ];
 
 export const certificates = [
-  {
-    id: 1,
-    name: "React Developer Certification",
-    issuer: "HackerRank",
-    date: "2024",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-JxElQcMfe-0FiP_97nC3ynGLKdJHXpHnA&s",
-    url: './'
-  },
+  // {
+  //   id: 1,
+  //   name: "React Developer Certification",
+  //   issuer: "HackerRank",
+  //   date: "2024",
+  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-JxElQcMfe-0FiP_97nC3ynGLKdJHXpHnA&s",
+  //   url: './'
+  // },
    {
     id: 2,
     name: "Java (Basic)",
@@ -158,28 +158,28 @@ export const certificates = [
   },
   {
     id: 2,
-    name: "Java Script Essentials 1 Certification",
-    issuer: "Cisco Networking Academy",
-    date: "2024",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcLTs7Bk6BMNVhoF_ufFaD8jhN8SSObWwfw&s",
-    url: './javascript1.pdf'
+    name: "Full Stack Development",
+    issuer: "Infosys Spring Board",
+    date: "Feb-2024",
+    image: "https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg",
+    url: './full stack development.pdf'
   },
-  {
-    id: 3,
-    name: "Java Script Essentials 2 Certification",
-    issuer: "Cisco Networking Academy",
-    date: "2025",
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yiAD08nePoxyyzsDzWxg6A14v5ux6r0FNQ&s",
-    url: './javascript2.pdf'
-  },
-  {
-    id: 4,
-    name: "MongoDB Developer's Toolkit",
-    issuer: "GeeksforGeeks",
-    date: "2025",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YmhDdn1HLzatPyuWRTg-YlitbQJtwdb_VQ&s",
-    url: './MongoDB.pdf'
-  },
+  // {
+  //   id: 3,
+  //   name: "Java Script Essentials 2 Certification",
+  //   issuer: "Cisco Networking Academy",
+  //   date: "2025",
+  //   image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yiAD08nePoxyyzsDzWxg6A14v5ux6r0FNQ&s",
+  //   url: './javascript2.pdf'
+  // },
+  // {
+  //   id: 4,
+  //   name: "MongoDB Developer's Toolkit",
+  //   issuer: "GeeksforGeeks",
+  //   date: "2025",
+  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YmhDdn1HLzatPyuWRTg-YlitbQJtwdb_VQ&s",
+  //   url: './MongoDB.pdf'
+  // },
   {
     id: 5 ,
     name: "Python",
@@ -190,11 +190,11 @@ export const certificates = [
   },
    {
     id: 56,
-    name: "C++",
-    issuer: "GeeksforGeeks",
+    name: "SQL",
+    issuer: "HackerRank",
     date: "2025",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVm4yEaRq9Ry8KTqRfBc1gyfz_SUGhRCAIQ&s",
-    url: './c++.pdf'
+    image: "https://media.geeksforgeeks.org/wp-content/uploads/20231223223806/SQL2.png",
+    url: './sql_basic certificate.pdf'
   },
 ];
 
