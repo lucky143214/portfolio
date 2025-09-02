@@ -140,14 +140,7 @@ export const internships = [
 ];
 
 export const certificates = [
-  // {
-  //   id: 1,
-  //   name: "React Developer Certification",
-  //   issuer: "HackerRank",
-  //   date: "2024",
-  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-JxElQcMfe-0FiP_97nC3ynGLKdJHXpHnA&s",
-  //   url: './'
-  // },
+  
    {
     id: 2,
     name: "Java (Basic)",
@@ -164,30 +157,38 @@ export const certificates = [
     image: "https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg",
     url: './full stack development.pdf'
   },
-  // {
-  //   id: 3,
-  //   name: "Java Script Essentials 2 Certification",
-  //   issuer: "Cisco Networking Academy",
-  //   date: "2025",
-  //   image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yiAD08nePoxyyzsDzWxg6A14v5ux6r0FNQ&s",
-  //   url: './javascript2.pdf'
-  // },
-  // {
-  //   id: 4,
-  //   name: "MongoDB Developer's Toolkit",
-  //   issuer: "GeeksforGeeks",
-  //   date: "2025",
-  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YmhDdn1HLzatPyuWRTg-YlitbQJtwdb_VQ&s",
-  //   url: './MongoDB.pdf'
-  // },
-  // {
-  //   id: 5 ,
-  //   name: "Python",
-  //   issuer: "HackerRank",
-  //   date: "2025",
-  //   image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65CTTHb2m6CvvK31nYqH3bJbjrTvZ6e7rjw&s",
-  //   url: './python.pdf'
-  // },
+  {
+    id: 3,
+    name: "frontend Developer",
+    issuer: "HackerRank",
+    date: "2025",
+    image:"https://kodmek.com/wp-content/uploads/2021/01/front-end-developer-1600x900-1.jpg",
+    url: './frontend_developer_react certificate.pdf'
+  },
+  {
+    id: 4,
+    name: "Problem Solving",
+    issuer: "HackerRank",
+    date: "2025",
+    image: "https://synergogy.com/wp-content/uploads/2023/06/5-Steps-to-Problem-Solving-jpg.webp",
+    url: './problem_solving_intermediate certificate.pdf'
+  },
+  {
+    id: 5 ,
+    name: "Python",
+    issuer: "HackerRank",
+    date: "2025",
+    image: "https://365datascience.com/resources/blog/2017-11-Programming-in-900-words-min.png",
+    url: './python_basic certificate.pdf'
+  },
+  {
+    id: 1,
+    name: "Rest API",
+    issuer: "HackerRank",
+    date: "2024",
+    image: "https://apibakery.com/static/img/guides/rest-api.jpg",
+    url: './rest_api certificate.pdf'
+  },
    {
     id: 56,
     name: "SQL",
